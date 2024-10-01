@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: VisionOSSettings
   m_EditorClassIdentifier: 
   m_AppMode: 1
-  m_HandsTrackingUsageDescription: 
-  m_WorldSensingUsageDescription: 
+  m_HandsTrackingUsageDescription: Hand Tracking For AR
+  m_WorldSensingUsageDescription: World Sensing For AR
   m_RuntimeSettings: {fileID: 11400000, guid: 2fbd94545e17b412496ec10b66c8c469, type: 2}
   m_UpperLimbVisibility: 0
   m_FoveatedRendering: 1
